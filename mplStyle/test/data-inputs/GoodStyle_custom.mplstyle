@@ -1,0 +1,30 @@
+
+import mpy.plot.style as mstyle
+
+import matplotlib
+import matplotlib.axes
+import matplotlib.text
+import matplotlib.lines
+import matplotlib.figure
+
+#======================================================================
+def applyStyle( element ):
+   """: Apply custom styling to the given element.
+   """
+   # Do something to the element
+   if isinstance( element, matplotlib.text.Text ):
+      element.set_color( "purple" )
+   elif isinstance( element, matplotlib.lines.Line2D ):
+      element.set_color( "pink" )
+   elif isinstance( element, matplotlib.axes.Axes ):
+      for item in element.lines:
+         applyStyle( item )
+
+      for item in element.texts:
+         applyStyle( item )
+
+   elif isinstance( element, matplotlib.figure.Figure ):
+      # Iterate over all axes in the figure
+      for ax in element.axes:
+         applyStyle( ax )
+

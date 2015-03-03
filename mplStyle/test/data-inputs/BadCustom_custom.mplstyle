@@ -1,0 +1,6 @@
+
+def applyStyle_isMissing( element ):
+   """: This should be called 'applyStyle'.
+   """
+   pass
+
