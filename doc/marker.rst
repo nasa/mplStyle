@@ -9,9 +9,9 @@ Following is a list of possible edge style properties:
       +--------------+------------------------+-------------------------------------+
       | **Property** | **Type**               | **Description**                     |
       +==============+========================+=====================================+
-      | color        | `Color <color.html>`__ | The color value of the marker.      |
+      | color        | `Color <color.rst>`__  | The color value of the marker.      |
       +--------------+------------------------+-------------------------------------+
-      | edgeColor    | `Color <color.html>`__ | The color value of the edge.        |
+      | edgeColor    | `Color <color.rst>`__  | The color value of the edge.        |
       +--------------+------------------------+-------------------------------------+
       | edgeWidth    | float                  | The width of the edge line (in      |
       |              |                        | pixels).                            |

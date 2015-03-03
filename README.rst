@@ -83,30 +83,30 @@ The basic MplStyle structure looks like this:
       +--------------+-----------------------------+-------------------------------------+
       | **Property** | **Type**                    | **Description**                     |
       +==============+=============================+=====================================+
-      | axes         | `Axes <doc/axes.html>`__    | Controls how to style an Axes and   |
+      | axes         | `Axes <doc/axes.rst>`__     | Controls how to style an Axes and   |
       |              |                             | all it's components.                |
       +--------------+-----------------------------+-------------------------------------+
-      | bgColor      | `Color <doc/color.html>`__  | The default background color to use |
+      | bgColor      | `Color <doc/color.rst>`__   | The default background color to use |
       |              |                             | for a sub-style if none is          |
       |              |                             | is specified (i.e. the default      |
       |              |                             | background color).                  |
       +--------------+-----------------------------+-------------------------------------+
-      | fgColor      | `Color <doc/color.html>`__  | The default foreground color to use |
+      | fgColor      | `Color <doc/color.rst>`__   | The default foreground color to use |
       |              |                             | for a sub-style if none is          |
       |              |                             | is specified (i.e. the default      |
       |              |                             | foreground color).                  |
       +--------------+-----------------------------+-------------------------------------+
-      | figure       | `Figure <doc/figure.html>`__| Controls how to style a Figure.     |
+      | figure       | `Figure <doc/figure.rst>`__ | Controls how to style a Figure.     |
       +--------------+-----------------------------+-------------------------------------+
-      | line         | `Line <doc/line.html>`__    | This specifies the style properties |
+      | line         | `Line <doc/line.rst>`__     | This specifies the style properties |
       |              |                             | for line elements plotted on an     |
       |              |                             | Axes.                               |
       +--------------+-----------------------------+-------------------------------------+
-      | patch        | `Patch <doc/patch.html>`__  | This specifies the style properties |
+      | patch        | `Patch <doc/patch.rst>`__   | This specifies the style properties |
       |              |                             | for patch elements plotted on an    |
       |              |                             | Axes.                               |
       +--------------+-----------------------------+-------------------------------------+
-      | text         | `Text <doc/text.html>`__    | The default text style to use.      |
+      | text         | `Text <doc/text.rst>`__     | The default text style to use.      |
       |              |                             | Sub-style elements may override for |
       |              |                             | specific pieces of text.            |
       +--------------+-----------------------------+-------------------------------------+
@@ -114,7 +114,7 @@ The basic MplStyle structure looks like this:
 .. note::
 
    The full list of available parameters can be found here:
-   `Full List <doc/style_all.html>`__
+   `Full List <doc/style_all.rst>`__ 
 
 ------------------------------------------------------------------------
 

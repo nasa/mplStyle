@@ -13,18 +13,18 @@ style properties:
       +==============+========================================+=====================================+
       | alpha        | float    [0.0 -> 1.0]                  | The transparency value of the text. |
       +--------------+----------------------------------------+-------------------------------------+
-      | bgColor      | `Color <color.html>`__                 | The background color for the        |
+      | bgColor      | `Color <color.rst>`__                  | The background color for the        |
       |              |                                        | bounding box containing the text.   |
       +--------------+----------------------------------------+-------------------------------------+
       | clip         | bool                                   | Should the text be clipped by the   |
       |              |                                        | Axes bounds.                        |
       +--------------+----------------------------------------+-------------------------------------+
-      | color        | `Color <color.html>`__                 | The color of the text.              |
+      | color        | `Color <color.rst>`__                  | The color of the text.              |
       +--------------+----------------------------------------+-------------------------------------+
-      | fgColor      | `Color <color.html>`__                 | The color of the text.  This is the |
+      | fgColor      | `Color <color.rst>`__                  | The color of the text.  This is the |
       |              |                                        | same as 'color'.                    |
       +--------------+----------------------------------------+-------------------------------------+
-      | font         | `Font <font.html>`__                   | The properties for setting the font |
+      | font         | `Font <font.rst>`__                    | The properties for setting the font |
       |              |                                        | used for this text.                 |
       +--------------+----------------------------------------+-------------------------------------+
       | horizAlign   | enum                                   | The horizontal alignment of the     |

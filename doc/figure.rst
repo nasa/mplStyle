@@ -33,13 +33,13 @@ Following is a list of possible Figure style properties:
       +--------------+-----------------------------+---------------------------------------------------------+
       | axesPadY     | float                       | The pad to put between Axes in the y-direction.         |
       +--------------+-----------------------------+---------------------------------------------------------+
-      | bgColor      | `Color <color.html>`__      | The background color value of the figure.               |
+      | bgColor      | `Color <color.rst>`__       | The background color value of the figure.               |
       +--------------+-----------------------------+---------------------------------------------------------+
       | bottomMargin | float                       | The bottom side margin of the figure (in figure coords).|
       +--------------+-----------------------------+---------------------------------------------------------+
       | dpi          | float                       | The resolution of the figure (in dots=per-inch).        |
       +--------------+-----------------------------+---------------------------------------------------------+
-      | edgeColor    | `Color <color.html>`__      | The color of the frame edge.                            |
+      | edgeColor    | `Color <color.rst>`__       | The color of the frame edge.                            |
       +--------------+-----------------------------+---------------------------------------------------------+
       | edgeStyle    | enum                        | The style to use for the edge line.  This can be one of |
       |              |                             | values:                                                 |

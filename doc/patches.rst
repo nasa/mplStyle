@@ -17,9 +17,9 @@ Following is a list of possible Patch style properties:
       | clip         | bool                        | Is this clipped by the axes         |
       |              |                             | boundaries?                         |
       +--------------+-----------------------------+-------------------------------------+
-      | color        | `Color <color.html>`__      | The color value of the patch.       |
+      | color        | `Color <color.rst>`__       | The color value of the patch.       |
       +--------------+-----------------------------+-------------------------------------+
-      | edgeColor    | `Color <color.html>`__      | The color value of the edge.        |
+      | edgeColor    | `Color <color.rst>`__       | The color value of the edge.        |
       +--------------+-----------------------------+-------------------------------------+
       | edgeStyle    | enum                        | The style to use for the edge line. |
       |              |                             | This can be one of the              |

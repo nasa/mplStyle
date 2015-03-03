@@ -70,40 +70,40 @@ Following is a list of possible Axes style properties:
       | axisBelow    | bool                                   | Should the axis lines be below the  |
       |              |                                        | plot elements                       |
       +--------------+----------------------------------------+-------------------------------------+
-      | bgColor      | `Color <color.html>`__                 | The background color of the axes.   |
+      | bgColor      | `Color <color.rst>`__                  | The background color of the axes.   |
       +--------------+----------------------------------------+-------------------------------------+
-      | bottomEdge   | `Edge <edge.html>`__                   | The style properties for the bottom |
+      | bottomEdge   | `Edge <edge.rst>`__                    | The style properties for the bottom |
       |              |                                        | axes edge.                          |
       +--------------+----------------------------------------+-------------------------------------+
-      | fgColor      | `Color <doc/color.html>`__             | The forground color for axes        |
+      | fgColor      | `Color <doc/color.rst>`__              | The forground color for axes        |
       |              |                                        | components.                         |
       +--------------+----------------------------------------+-------------------------------------+
       | frameWidth   | float                                  | The with of the axes border frame.  |
       +--------------+----------------------------------------+-------------------------------------+
-      | labels       | `Text <text.html>`__                   | Set this to influence tick labels   |
+      | labels       | `Text <text.rst>`__                    | Set this to influence tick labels   |
       |              |                                        | and axis labels.                    |
       +--------------+----------------------------------------+-------------------------------------+
-      | leftEdge     | `Edge <edge.html>`__                   | The style properties for the left   |
+      | leftEdge     | `Edge <edge.rst>`__                    | The style properties for the left   |
       |              |                                        | axes edge.                          |
       +--------------+----------------------------------------+-------------------------------------+
-      | rightEdge    | `Edge <edge.html>`__                   | The style properties for the right  |
+      | rightEdge    | `Edge <edge.rst>`__                    | The style properties for the right  |
       |              |                                        | axes edge.                          |
       +--------------+----------------------------------------+-------------------------------------+
       | showFrame    | bool                                   | The visibility of the axes frame    |
       +--------------+----------------------------------------+-------------------------------------+
-      | title        | `Text <text.html>`__                   | This controls how title text looks  |
+      | title        | `Text <text.rst>`__                    | This controls how title text looks  |
       |              |                                        | for a given axes.                   |
       +--------------+----------------------------------------+-------------------------------------+
-      | topEdge      | `Edge <edge.html>`__                   | The style properties for the top    |
+      | topEdge      | `Edge <edge.rst>`__                    | The style properties for the top    |
       |              |                                        | axes edge.                          |
       +--------------+----------------------------------------+-------------------------------------+
       | visible      | bool                                   | Is the axes (and all components)    |
       |              |                                        | visible or not.                     |
       +--------------+----------------------------------------+-------------------------------------+
-      | xAxis        | `Axis <axis.html>`__                   | The style properties for the        |
+      | xAxis        | `Axis <axis.rst>`__                    | The style properties for the        |
       |              |                                        | x-axis.                             |
       +--------------+----------------------------------------+-------------------------------------+
-      | yAxis        | `Axis <axis.html>`__                   | The style properties for the        |
+      | yAxis        | `Axis <axis.rst>`__                    | The style properties for the        |
       |              |                                        | y-axis.                             |
       +--------------+----------------------------------------+-------------------------------------+
       | zOrder       | float                                  | The z-order value is used for depth |

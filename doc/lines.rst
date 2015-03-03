@@ -12,9 +12,9 @@ Following is a list of possible line style properties:
       +--------------+------------------------------------------+----------------------------------------------+
       | clip         | bool                                     | Is this clipped by the axes boundaries?      |
       +--------------+------------------------------------------+----------------------------------------------+
-      | color        | `Color <color.html>`__                   | The color value of the line.                 |
+      | color        | `Color <color.rst>`__                    | The color value of the line.                 |
       +--------------+------------------------------------------+----------------------------------------------+
-      | marker       | `Marker <marker.html>`__                 | The style property for the markers placed at |
+      | marker       | `Marker <marker.rst>`__                  | The style property for the markers placed at |
       |              |                                          | each data point of a line.                   |
       +--------------+------------------------------------------+----------------------------------------------+
       | snap         | bool                                     | Snap vertices to the nearest pixel center.   |
