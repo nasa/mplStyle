@@ -3,11 +3,6 @@
 Plotting Styles
 ===============
 
-.. toctree::
-   :hidden:
-
-   doc/*
-
 The style system allow you to customize the look of your plots easily
 and to maintain a consistent style on a large number of plots.  Styles
 are used to control how plot elements look (color, marker style, line
